@@ -69,9 +69,7 @@ header{
     align-items: center;
     padding: 1.5rem 9%;
 }
-header .logo img {
-    height: 6rem;
-}
+
 header .navbar a{
     color: #fff;
     margin-left: 2rem;
